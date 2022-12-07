@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <!-- <p th:text="${message}"></p> -->
+    <!-- <div th:each="empleado : ${empleados}">
+        <p th:text="${empleado}"></p>
+    </div> -->
+
+    <h1 style="text-align: center;">Bienvenido a mi pagina </h1>
+    <div class="container">
+        <div style=text-align:center; center; class="row" th:if="${#lists.isEmpty(empleados)}">
+            <h3>Lo siento pero la lista esta vacia no hay nada que ver</h3>
+        </div>
+        <div class="row">
+            <h1>Lista de Empleados</h1>
+        </div>
+
+        <table class="table">
+            <thead class="table-dark">
+                <tr>
+                    <th>Numero_registrado</th>
+                    <th>dni</th>
+                    <th>fechaNacimiento</th>
+                    <th>edad</th>
+                    <th>email</th>
+                    <th>nombre</th>
+                    <th>antiguedad</th>
+                    <th>id_trabajo</th>
+                    <th>profesion</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr th:each="empleado:${empleados}">
+                    <td th:text="${empleado.numero_registro}">Numero_registrado</td>
+                    <td th:text="${empleado.dni}">dni</td>
+                    <td th:text="${empleado.fechaNacimiento}">fechaNacimiento</td>
+                    <td th:text="${empleado.edad}">edad</td>
+                    <td th:text="${empleado.email}">email</td>
+                    <td th:text="${empleado.nombre}">nombre</td>
+                    <td th:text="${empleado.antiguedad}">antiguedad</td>
+                    <td th:text="${empleado.id}">id</td>
+                    <td th:text="${empleado.profesion}">profesion</td>
+                    <td>
+                        <a th:href="@{/editarEmpleado/{id}(id=${empleado.numero_registro})}"
+                            class="btn btn-info">Editar</a>
+                    </td>
+                    <td>
+                        <a th:href="@{/eliminarEmpleado/{id}(id=${empleado.numero_registro})}"
+                            class="btn btn-danger">Eliminar</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+
+    </div>
+
+
+</body>
+
+</html>
