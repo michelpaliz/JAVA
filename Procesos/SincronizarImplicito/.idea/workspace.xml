@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed31a052-ceea-41f0-8840-ed5f0d4d9558" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ejercicio_8_1/src/main/java/com/example/ejercicio_8_1/Model/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio_8_1/src/main/java/com/example/ejercicio_8_1/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PingPong/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PingPong/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PingPong/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PingPong/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PingPong/PingPong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjecucionTransferencias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modelos/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Modelos/Cuenta.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Hj8w8NXrN7XgMKBLTTlkMoodE8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/michael/Documents/Procesos/VideosHilos&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.notifications&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed31a052-ceea-41f0-8840-ed5f0d4d9558" name="Changes" comment="" />
+      <created>1668787369354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668787369354</updated>
+      <workItem from="1668787370560" duration="138000" />
+      <workItem from="1668788832820" duration="12026000" />
+      <workItem from="1668805983423" duration="5281000" />
+      <workItem from="1668811431055" duration="1676000" />
+      <workItem from="1668813172017" duration="1373000" />
+      <workItem from="1668814800935" duration="1062000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
