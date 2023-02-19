@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aac5f726-0f58-4781-b2b7-8f60e0cea7f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Practica1.2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practica1.2/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practica1.2/Servidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practica1.2/ServidorHilo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practica1.2/fichero.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practica1/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practica1/Servidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practica1/ServidorHilo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Servidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServidorHilo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practica2/.idea/Practica2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practica2/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practica2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practica2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practica2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practica2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practica2/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practica2/Servidor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Practica2/ServidorHilo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../video19.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../video190.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../video191.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../video192.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../video193.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../video194.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../video195.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../video196.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../video197.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../video198.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../video199.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../video200.zip" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LxhFDeqCGzKzGr4WAwDu4cdNnQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/michael/Documents/GitHub/Java/Procesos/Practica2"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Cliente">
+    <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cliente" />
+      <module name="Practica2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Servidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Servidor" />
+      <module name="Practica2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Cliente" />
+        <item itemvalue="Application.Servidor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aac5f726-0f58-4781-b2b7-8f60e0cea7f8" name="Changes" comment="" />
+      <created>1676818534959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676818534959</updated>
+      <workItem from="1676818536116" duration="11631000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
